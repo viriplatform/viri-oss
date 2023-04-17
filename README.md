@@ -73,7 +73,7 @@
 				    <div class="col-sm-12 col-lg-4">
 				    	<div class="icon_1"><img src="images/icon-1.png"></div>
 				    	<h1 class="website_text">Low code no code platform</h1>
-				    	<p class="dolor_text">Low code no code platform for business owners and domain experts with build the tools needed to run the business</p>
+				    	<p class="dolor_text">Low code no code platform for business owners and domain experts to build the tools needed to run the business with zero code</p>
 				    </div>
 				    <div class="col-sm-12 col-lg-4">
 				    	<div class="icon_1"><img src="images/icon-2.png"></div>
@@ -83,7 +83,7 @@
 				    <div class="col-sm-12 col-lg-4">
 				    	<div class="icon_1"><img src="images/icon-3.png"></div>
 				    	<h1 class="website_text">custom built tools and applications</h1>
-				    	<p class="dolor_text">Ready to use business and customized business applications for small businesses</p>
+				    	<p class="dolor_text">Ready to use business and customized business applications for small businesses with zero downtime</p>
 				    </div>
 			    </div>
 			</div>
